@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_King",
   "spriteId": {
-    "name": "spr_player",
-    "path": "sprites/spr_player/spr_player.yy",
+    "name": "spr_king_idle",
+    "path": "sprites/spr_king_idle/spr_king_idle.yy",
   },
   "solid": false,
   "visible": true,

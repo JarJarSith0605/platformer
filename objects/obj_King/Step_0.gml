@@ -44,3 +44,4 @@ if (place_meeting(x,y+vsp,obj_InvisWall))
 
 }
 y = y + vsp; 
+

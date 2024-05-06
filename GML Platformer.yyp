@@ -3,10 +3,16 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":9,},
     {"id":{"name":"spr_InvisWall","path":"sprites/spr_InvisWall/spr_InvisWall.yy",},"order":1,},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"obj_King","path":"objects/obj_King/obj_King.yy",},"order":2,},
+    {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":8,},
+    {"id":{"name":"spr_king_walk","path":"sprites/spr_king_walk/spr_king_walk.yy",},"order":5,},
+    {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":10,},
+    {"id":{"name":"spr_king_jump","path":"sprites/spr_king_jump/spr_king_jump.yy",},"order":7,},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":2,},
+    {"id":{"name":"spr_king_idle","path":"sprites/spr_king_idle/spr_king_idle.yy",},"order":6,},
     {"id":{"name":"obj_InvisWall","path":"objects/obj_InvisWall/obj_InvisWall.yy",},"order":1,},
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
