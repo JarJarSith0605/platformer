@@ -9,6 +9,7 @@
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":8,},
     {"id":{"name":"spr_king_walk","path":"sprites/spr_king_walk/spr_king_walk.yy",},"order":5,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":10,},
+    {"id":{"name":"walls","path":"tilesets/walls/walls.yy",},"order":0,},
     {"id":{"name":"spr_king_jump","path":"sprites/spr_king_jump/spr_king_jump.yy",},"order":7,},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":2,},
     {"id":{"name":"spr_king","path":"sprites/spr_king/spr_king.yy",},"order":6,},
