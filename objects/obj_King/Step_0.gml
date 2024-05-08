@@ -65,3 +65,5 @@ else
 		sprite_index = spr_king_walk;
 	}
 }
+
+if (hsp !=0) image_xscale = sign(hsp)
